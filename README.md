@@ -19,11 +19,11 @@ Puedes encontrarme en las siguientes redes sociales.
  ```ruby
  class Sy
    def initialize
-     @name = 'Bertrand Lorente'
-     @age = 19
+     @name = 'Bertrand Lorente Yáñez'
+     @age = 20
      @work = 'Student'
      @education = [ 'IES BEZMILIANA']
-     @hobbies = [ 'Hacking', 'Coding', 'Futbol' ]
+     @hobbies = [ 'Hacking', 'Coding', 'CTF' ]
    end
 
    def current_location
