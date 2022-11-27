@@ -9,7 +9,7 @@ Puedes encontrarme en las siguientes redes sociales.
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Bertrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bertrandlorente/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Bertrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bertrandlorente/)](https://www.linkedin.com/in/bertrandlorente/)
   [![Twitter Badge](https://img.shields.io/badge/-@bertrandlorent-03a57a?style=flat-square&label&logo=Twitter&link=https://twitter.com/@bertrandlorent/)](https://twitter.com/bertrandlorent)
 </div>
 <br>
