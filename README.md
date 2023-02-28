@@ -1,64 +1,50 @@
-<h1 align="center">🤠 Hola! Soy Bertrand Lorente</h1>
+# 💫 About Me:
+I'm Bertrand Lorente Yáñez (aka BLY) I'm a student of Network Systems Administration and a passionate about cybersecurity, within this field I have always preferred Pentesting and Red Team. I like to solve CTF challenges, my favorite platform is HTB. I am also progromar in several programming languages, but my favorite is Python.
 
-<p align="center">
-Soy un estudiante de ciberseguriad y sysadmin, actualmente soy técnico en microsistemas informaticos y redes.   
-</p>
-<p align="center"> 
-Puedes encontrarme en las siguientes redes sociales.
-</p>
+---
 
-<div align="center">
+```python
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Bertrand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bertrandlorente/)](https://www.linkedin.com/in/bertrandlorente/)
-  [![Twitter Badge](https://img.shields.io/badge/-@bertrandlorent-03a57a?style=flat-square&label&logo=Twitter&link=https://twitter.com/@bertrandlorent/)](https://twitter.com/bertrandlorent)
-</div>
-<br>
+import requests
 
-<h3>¿Cómo me defino...?</h3>
-
- ```ruby
- class Sy
-   def initialize
-     @name = 'Bertrand Lorente Yáñez'
-     @age = 20
-     @work = 'Student'
-     @education = [ 'IES BEZMILIANA']
-     @hobbies = [ 'Hacking', 'Coding', 'CTF' ]
-   end
-
-   def current_location
-     'Málaga, ES'
-   end
-
-   def next_location
-     'I dont know :)'
-   end
-
- end
- ```
- 
-<br>
-
-### Lenguajes que manejo.
-<p> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Jquery" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/jquery.svg" />
-<img align="left" alt="Jquery" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_128x128.png" /> 
+proxies={"http":"http://127.0.0.1:8080"}
+url=https://mycerts.com/bly
 
 
-</p>
+def bly():
 
-<br>
+    data={
+          "RedTeam": 1,
+           "eJPT": 1,
+           "eWPT": 1,
+           "CRPT": ? :)
+           "OSCP": 0
+    }
+
+  r = requests.post(url,data=data)
+
+if __name__ == '__main__':
+        bly()
 
 
-<br>
-<div align="center">
-<h4>Mi perfil de hackthebox</h4>
-  <a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/435972">
+``` 
+--- 
+
+<a title="Hack The Box Profile" href="https://www.hackthebox.eu/profile/435972">
 <img src="http://www.hackthebox.eu/badge/image/435972" alt="Hack The Box">
-</a>
-</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bertrandlorenteyañez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bertrandlorente) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bly-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bly-coder&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bly-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bly-coder&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=bertrandlorente)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
