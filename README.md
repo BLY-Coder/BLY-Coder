@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm Bertrand Lorente Yáñez (aka BLY) I'm a student of Network Systems Administration and a passionate about cybersecurity, within this field I have always preferred Pentesting and Red Team. I like to solve CTF challenges, my favorite platform is HTB. I am also progromar in several programming languages, but my favorite is Python.
 
+# 👀 My blog: 
+
+### [BerlokiaBlog](https://bly-coder.github.io)
+
 ---
 
 ```python
